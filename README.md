@@ -13,13 +13,12 @@
 <br />
 <div align="center">
   <a href="https://github.com/eoghan2t9/WIN-AIO-TOOLKIT">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <!-- <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
   </a>
 
   <h3 align="center">Windows All In One ToolKit</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
     <br />
     <a href="https://github.com/eoghan2t9/WIN-AIO-TOOLKIT"><strong>Explore the docs »</strong></a>
     <br />
