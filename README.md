@@ -102,7 +102,7 @@ You must have Python already installed, Please visit the https://www.python.org/
 ### Installation
 
 
-1. Head to the Releases section to grab the latest version [Releases](https://github.com/eoghan2t9/WIN-AIO-TOOLKIT/releases)
+1. Head to the [Releases](https://github.com/eoghan2t9/WIN-AIO-TOOLKIT/releases) section to grab the latest version 
 2. Once download the file wont install anything it all runs standalone and the temp folder.
 3. Run the downloaded exe.
 4. Have fun tweaking windows.
