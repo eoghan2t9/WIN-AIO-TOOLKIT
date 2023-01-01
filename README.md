@@ -21,7 +21,7 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/eoghan2t9/WIN-AIO-TOOLKIT"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/eoghan2t9/WIN-AIO-TOOLKIT/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/eoghan2t9/WIN-AIO-TOOLKIT">View Screenshots</a>
