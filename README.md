@@ -1,5 +1,6 @@
 <a name="readme-top"></a>
 
+<div align="center">
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -7,7 +8,7 @@
 [![Issues][issues-shield]][issues-url]
 [![GNU License][license-shield]][license-url]
 
-
+</div>
 
 <!-- PROJECT LOGO -->
 <br />
