@@ -196,5 +196,5 @@ This project wont be happening without the special thanks to the guy's below wat
 [product-screenshot]: images/screenshot.png
 [Python]: https://img.shields.io/pypi/pyversions/3?style=for-the-badge
 [Python-url]: https://www.python.org/
-[ttkbootstrap]: https://img.shields.io/static/v1?label=Python&message=ttkbootstrap&color=green
+[ttkbootstrap]: https://img.shields.io/static/v1?label=Python&message=ttkbootstrap&color=green&style=for-the-badge
 [ttkbootstrap-url]: https://github.com/israel-dryer/ttkbootstrap
