@@ -158,7 +158,7 @@ Distributed under the GNU General Public License v3.0. See `LICENSE.txt` for mor
 <!-- CONTACT -->
 ## Contact
 
-Your Name - Eoghan Cunningham - eoghan61@gmail.com
+Eoghan Cunningham - eoghan61@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
