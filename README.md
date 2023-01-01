@@ -84,6 +84,8 @@ Here's why:
 This project is built using Python and the ttkbootstrap GUI
 
 * [![Python][Python]][Python-url]
+* [![ttkbootstrap][ttkbootstrap]][ttkbootstrap-url]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -194,3 +196,5 @@ This project wont be happening without the special thanks to the guy's below wat
 [product-screenshot]: images/screenshot.png
 [Python]: https://img.shields.io/pypi/pyversions/3?style=for-the-badge
 [Python-url]: https://www.python.org/
+[ttkbootstrap]: https://img.shields.io/static/v1?label=Python&message=ttkbootstrap&color=green
+[ttkbootstrap-url]: https://github.com/israel-dryer/ttkbootstrap
