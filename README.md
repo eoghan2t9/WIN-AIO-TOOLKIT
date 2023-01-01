@@ -83,8 +83,7 @@ Here's why:
 
 This project is built using Python and the ttkbootstrap GUI
 
-* [![Python][Python]][Python-url]
-* [![ttkbootstrap][ttkbootstrap]][ttkbootstrap-url]
+[![Python][Python]][Python-url] - [![ttkbootstrap][ttkbootstrap]][ttkbootstrap-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
